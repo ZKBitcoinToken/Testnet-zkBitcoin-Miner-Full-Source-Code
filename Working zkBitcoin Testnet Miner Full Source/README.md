@@ -1,4 +1,4 @@
-# BNBTCminer
+# zkBitcoin Miner
 All-in-one mixed multi-GPU (nVidia, AMD, Intel) & CPU miner solves proof of work to mine supported EIP918 tokens in a single instance (with API).
 
 Current latest public release version: [1.2.0](https://github.com/Mineions/BNBTCminer/releases/latest)
